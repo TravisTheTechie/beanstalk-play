@@ -6,7 +6,7 @@ via homebrew or other means, per your platform.
 
     $ brew install play
 
-Check your play version...
+Check your play version..., we're looking for something &lt;= 2
 
     $ play
            _            _ 
